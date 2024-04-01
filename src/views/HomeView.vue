@@ -1,5 +1,11 @@
-<script setup></script>
-
 <template>
-  <h1>BemVindo</h1>
+  <div class="welcome-container">
+    <h1 class="welcome-heading">Bem Vindo</h1>
+  </div>
 </template>
+
+<script setup>
+</script>
+
+<style scoped>
+</style>
